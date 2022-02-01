@@ -1,6 +1,6 @@
-title: The Butler
-baseline: Your blogging assistant
-description: A ready to use static blog, powered by Cecil.
+title: .dot blog
+baseline: Official . Cult Blog
+description: The official cult webpage for dot
 baseurl: /
 canonicalurl: true
 keywords: [Cecil, Static Site Generator, SSG]

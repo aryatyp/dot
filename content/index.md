@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# .Dot
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> Welcome to the cult of dot
